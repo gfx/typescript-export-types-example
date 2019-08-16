@@ -1,2 +1,2 @@
-export interface A{}
+interface A{}
 interface B{}
